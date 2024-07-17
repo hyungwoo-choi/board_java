@@ -32,7 +32,7 @@ public class TodoDTO {
         return finished;
     }
 
-    
+
     public void setFinished(boolean finished) {
         this.finished = finished;
     }
